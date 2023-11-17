@@ -1028,6 +1028,7 @@ a.sppb-text-danger:hover {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
+  justify-content: space-between;
 }
 
 .sppb-no-gutter {
@@ -1893,6 +1894,7 @@ a.sppb-text-danger:hover {
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  align-items: center;
 }
 
 .sppb-column.sppb-align-items-center {
