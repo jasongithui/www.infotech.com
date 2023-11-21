@@ -7628,7 +7628,7 @@ form.sppb-optin-form.submit-button-inside .button-wrap {
   transform: translate3d(0, -50px, 0);
 }
 
-.image-effect-slide-top:hover .overlay-background-image {
+.overlay-background-style:hover .overlay-background-image {
   transform: translate3d(0, 0, 0);
 }
 
